@@ -1,4 +1,4 @@
- BrieflyMeet – AI-powered Meeting Summarizer
+** BrieflyMeet – AI-powered Meeting Summarizer**
 
 BrieflyMeet is an intelligent meeting summarization tool built using NLP and transformer models. It transforms long meeting transcripts into concise, readable summaries — ideal for morning briefings, project reviews, or business updates.
 
